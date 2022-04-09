@@ -23,7 +23,7 @@ export default defineUserConfig<DefaultThemeOptions>({
     ],
     themeConfig: {
         navbar: navbar,
-        sidebar: sidebar,
+        // sidebar: sidebar,
         logo: '/images/studying.png',
     },
 });
